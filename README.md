@@ -2,7 +2,8 @@
 
 ## Overview
 This project implements various reinforcement learning techniques to evaluate and improve policies on the "FrozenLake" environment from OpenAI's gym. Supervised by Prof. Ricard Marxer at the University of Toulon, this project explores the application of Markov Decision Processes (MDP), policy evaluation methods, action-value function computation, epsilon-greedy policies, SARSA, and Q-learning to navigate through the stochastic environment of FrozenLake.
-
+### Google Colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mC3VPcRjybNgTIZkVBzsnvGaVaC--HSk#scrollTo=qL6xBo8Lg-gT)
 ## Methods Implemented
 - **MDP from Gym Environment**: Utilization of the gym environment to model the FrozenLake as a Markov Decision Process.
 - **Policy Evaluation**: Implementation of various value function estimation methods:
